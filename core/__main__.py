@@ -1,11 +1,10 @@
-# Copyrighted by Aresona & Sentric Nova 2024-2025
-# Please do not modify any file if you don't sure what you doing.
+# Copyrighted by PLAY-Z 90 | 2025
+# Please do not modify any file if you don't know what you're doing.
 # --------------------------------------Credits---------------------------------#
-# Sentric Nova -> For his best ideas and making it shorts.
-# Aresona -> For coding and making it short as much possible.
-# Support channel --> social_bots.t.me
-# Support Group --> Join social_bots's comment box
-# Please gives credits if you fork or anything. also join our support channels too.
+# PLAY-Z 90 -> For ideas and making it short.
+# Support Channel --> @PLAYZ_HACKING
+# Support Group --> @PLAY_Z_HACKING_DISCUSSION
+# Please give credits if you fork or modify.
 
 import asyncio, config
 from config import LOGGER_GROUP
@@ -19,8 +18,8 @@ async def init():
         with await userbot.start():
             print("ASSISTANT STARTED")
             try:
-                await userbot.join_chat("Social_bots")
-                await userbot.join_chat("Life_codes")
+                await userbot.join_chat("PLAYZ_HACKING")
+                await userbot.join_chat("PLAY_Z_HACKING_DISCUSSION")
                 await userbot.send_message(LOGGER_GROUP, "Assistant is started!")
             except:
                 pass
