@@ -13,7 +13,7 @@ CONFIG_VARS = {
     "API_HASH": "fdffc74281153b3338e4474f5640095e",  # API Hash
     "BOT_TOKEN": "7624968723:AAG7pNc3o4KMW4emb6xXVnj-GymqvdgKK3Y",  # Bot Token
     "LOGGER_GROUP": -1002466528202,  # Updated Logger Group Chat ID
-    "PHONE_NUMBER": "",  # (Agar zaroori ho toh dal sakte ho)
+    "PHONE_NUMBER": "+917749079635",  # (Agar zaroori ho toh dal sakte ho)
     "OWNER_ID": [7107162691]  # Owner Telegram ID
 }
 
