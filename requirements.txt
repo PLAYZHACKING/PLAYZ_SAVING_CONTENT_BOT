@@ -1,4 +1,4 @@
-pyrofork
-urllib3==2.2.1
-TgCrypto
-Telethon
+pyrogram
+tgcrypto
+telethon
+requests
